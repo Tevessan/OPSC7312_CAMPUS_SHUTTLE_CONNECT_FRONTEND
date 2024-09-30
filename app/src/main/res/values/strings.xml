@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">CampusShuttleConnect</string>
+
+
+    <string name="CampusShuttleConnect">Campus Shuttle Connect</string>
+
+    <!-- Language Options for Spinner -->
+    <string-array name="language_options">
+        <item>English</item>
+        <item>Afrikaans</item>
+        <item>Zulu</item>
+    </string-array>
+
+
+    <!-- Days Array -->
+    <string-array name="days_array">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+    </string-array>
+
+    <!-- Time Slots Array -->
+    <string-array name="time_slots_array">
+        <item>7:00 AM</item>
+        <item>7:30 AM</item>
+        <item>12:00 PM</item>
+        <item>12:30 PM</item>
+    </string-array>
+
+    <!-- Directions Array -->
+    <string-array name="directions_array">
+        <item>To Campus</item>
+        <item>From Campus</item>
+    </string-array>
+
+        <string name="ic_home">Home Icon</string>
+        <string name="ic_profile">Profile Icon</string>
+        <string name="ic_search">Search Icon</string>
+
+</resources>
